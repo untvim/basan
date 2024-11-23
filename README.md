@@ -73,13 +73,14 @@ USER STORY
 USE CASE
 ========
 
-![plant-1.png](attachments/98328/131363.png?width=760)
+![plant-2](https://github.com/user-attachments/assets/dce7d7f6-a191-4deb-98eb-9dd5f10c4b61)
 
-![plant.png](attachments/98328/66033.png?width=760)
+![plant](https://github.com/user-attachments/assets/7421c148-e3ea-49b4-b324-baa3bca810dc)
 
-![plant-2.png](attachments/98328/131369.png?width=760)
+![plant-1](https://github.com/user-attachments/assets/c1c0033f-6896-4c3b-9e96-1f500aaaf29d)
 
-![](images/icons/grey_arrow_down.png)Код на Plant UML
+
+Код на Plant UML
 
 ```java
 @startuml
@@ -194,7 +195,8 @@ ViewTask --> ViewComments
 
 ### Макет:
 
-![Авторизация.png](attachments/98328/524367.png?width=760)
+![Авторизация](https://github.com/user-attachments/assets/e65d5725-c6a3-4717-ae84-c49127daf042)
+
 
 ### Описание элементов:
 
@@ -205,7 +207,7 @@ ViewTask --> ViewComments
 
 ### Макет:
 
-![Регистрация.png](attachments/98328/622679.png?width=500)
+![Регистрация](https://github.com/user-attachments/assets/fc612f37-2b6b-4969-9560-a952a058ee64)
 
 ### Описание элементов:
 
@@ -216,7 +218,7 @@ ViewTask --> ViewComments
 
 ### Макет:
 
-![Боковая панель.png](attachments/98328/622706.png?width=300)
+![Боковая панель](https://github.com/user-attachments/assets/b17debb2-9c14-436a-bb7d-0fffb11ee072)
 
 ### Описание элементов:
 
@@ -229,7 +231,8 @@ ViewTask --> ViewComments
 
 ### Макет:
 
-![Добавление задачи.png](attachments/98328/622726.png?width=500)
+![Добавление задачи](https://github.com/user-attachments/assets/0c01a0a5-3853-4afb-a8ab-a8cad38358bc)
+
 
 ### Описание элементов:
 
@@ -242,7 +245,8 @@ ViewTask --> ViewComments
 
 ### Макет:
 
-![Добавление проекта.png](attachments/98328/557225.png?width=494)
+![Добавление проекта](https://github.com/user-attachments/assets/c58de75f-3fac-4c08-ac24-a08bbb7c5372)
+
 
 ### Описание элементов:
 
