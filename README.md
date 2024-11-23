@@ -290,15 +290,22 @@ ViewTask --> ViewComments
 
 ![Добавление проекта](https://github.com/user-attachments/assets/c58de75f-3fac-4c08-ac24-a08bbb7c5372)
 
-
 ### Описание элементов:
 
-При нажатии на + рядом с Проект ([https://antonbaturin2003.atlassian.net/wiki/spaces/~6364bc70548f1fe6f0c869eb/pages/98328#0a0d0f21-a8f5-40d5-a925-b11792572586](https://antonbaturin2003.atlassian.net/wiki/spaces/~6364bc70548f1fe6f0c869eb/pages/98328#0a0d0f21-a8f5-40d5-a925-b11792572586) ) открывается Поп-ап с созданием проекта.
+При нажатии на + рядом с Проект открывается Поп-ап с созданием проекта.
 
-<table data-table-width="1011" data-layout="default" data-local-id="9d1f9c30-7076-4227-9674-6af130a088a9" class="confluenceTable"><colgroup><col style="width: 67.0px;"><col style="width: 196.0px;"><col style="width: 186.0px;"><col style="width: 562.0px;"></colgroup><tbody><tr><td class="confluenceTd"><p><strong>№</strong></p></td><td class="confluenceTd"><p><strong>Название элемента</strong></p></td><td class="confluenceTd"><p><strong>Тип поля</strong></p></td><td class="confluenceTd"><p><strong>Описание элемента</strong></p></td></tr><tr><td class="confluenceTd"><p>1</p></td><td class="confluenceTd"><p></p></td><td class="confluenceTd"><p>Иконка</p></td><td class="confluenceTd"><p>При нажатии на иконку форма закрывается</p></td></tr><tr><td class="confluenceTd"><p>2</p></td><td class="confluenceTd"><p>Добавить проект</p></td><td class="confluenceTd"><p>Текст</p></td><td class="confluenceTd"><p>Данная надпись является заголовком</p></td></tr><tr><td class="confluenceTd"><p>3</p></td><td class="confluenceTd"><p>Имя проекта</p></td><td class="confluenceTd"><p>Текст<br>Поле ввода<br>Обязательное</p></td><td class="confluenceTd"><p>В данном поле пользователь вводит название (имя) проекта</p></td></tr><tr><td class="confluenceTd"><p>4</p></td><td class="confluenceTd"><p>Пользователь</p></td><td class="confluenceTd"><p>Выпадающий список с мультивыбором и возможностью поиска<br>Необязательное</p></td><td class="confluenceTd"><p>Создатель проекта может сразу добавлять пользователей по их имени или email.</p><p>При выборе пользователя, он выводится ниже данного элемента, рядом с ним появляется иконка крестика, которая дает возможность удалить пользователя.</p><span class="confluence-embedded-file-wrapper image-left-wrapper confluence-embedded-manual-size"><img class="confluence-embedded-image image-left" alt="image 10.png" width="200" loading="lazy" src="attachments/98328/557241.png?width=200" data-image-src="attachments/98328/557241.png" data-height="656" data-width="425" data-unresolved-comment-count="0" data-linked-resource-id="557241" data-linked-resource-version="1" data-linked-resource-type="attachment" data-linked-resource-default-alias="image 10.png" data-base-url="https://antonbaturin2003.atlassian.net/wiki" data-linked-resource-content-type="image/png" data-linked-resource-container-id="98328" data-linked-resource-container-version="30" data-media-id="f6c1768d-e5f8-4388-b187-2aebe48e0d76" data-media-type="file"></span></td></tr><tr><td class="confluenceTd"><p>5</p></td><td class="confluenceTd"><p>Отмена</p></td><td class="confluenceTd"><p>Кнопка</p></td><td class="confluenceTd"><p>При нажатии на кнопку происходит отмена создания проекта</p></td></tr><tr><td class="confluenceTd"><p>6</p></td><td class="confluenceTd"><p>Добавить</p></td><td class="confluenceTd"><p>Кнопка</p></td><td class="confluenceTd"><p>При нажатии на кнопку создается задача. После создания задача должна появится в списке проектов</p></td></tr></tbody></table>
+№ | Название элемента | Тип поля        | Описание элемента
+--|-------------------|----------------|-------------------
+1 |                   | Иконка         | При нажатии на иконку форма закрывается
+2 | Добавить проект    | Текст   | Данная надпись является заголовком
+3 | Имя проекта    | Текст <br> Поле ввода <br> Обязательное    | В данном поле пользователь вводит название (имя) проекта
+4 | Пользователь          | Выпадающий список с мультивыбором и возможностью поиска <br> Необязательное | Создатель проекта может сразу добавлять пользователей по их имени или email. <br> При выборе пользователя, он выводится ниже данного элемента, рядом с ним появляется иконка крестика, которая дает возможность удалить пользователя. <br> ![image](https://github.com/user-attachments/assets/f6f5a5ff-f55f-48dd-8350-24de634ddbc7)
+5 | 	Отмена          | Кнопка | При нажатии на кнопку происходит отмена создания проекта
+6 | Добавить    | Кнопка| При нажатии на кнопку создается задача. После создания задача должна появится в списке проектов
 
-4.  **Список задач | Проект**
-    
+
+Список задач | Проект
+---------------   
 
 Заголовок - Название проекта
 
@@ -310,7 +317,8 @@ ViewTask --> ViewComments
 
 Пример:
 
-![image-20241122-225446.png](attachments/98328/557062.png?width=760)
+![image](https://github.com/user-attachments/assets/50ed7db8-e32c-4971-b036-b47e99426d7f)
+
 
 Задачи в списке выводятся согласно их приоритетам. Задачи с высшим приоритетом выводятся выше. Если у задач одинаковый приоритет, то выводим согласно алфавиту от А-Я.
 
@@ -318,8 +326,8 @@ ViewTask --> ViewComments
 
 Рядом с название задачи выводим Выпадающий список с моновыбором статусов задачи. Возможность изменять статус есть у Создателя проекта и Редактора.
 
-5.  **Список задач | Сегодня**
-    
+Список задач | Сегодня
+---------------   
 
 Заголовок - Сегодня
 
@@ -329,7 +337,8 @@ ViewTask --> ViewComments
 
 **При нажатии на чекбокс (можно выбирать несколько чекбоксов разом) появляется кнопка “Закрыть задачи“ рядом с Заголовком (Название проекта). При нажатии на кнопку открывается поп-ап. Заголовок - Закрыть задачу. Две кнопки - Да / Нет.**
 
-![image-20241123-002845.png](attachments/98328/589860.png?width=760)
+![image](https://github.com/user-attachments/assets/231cb801-73dc-4898-b1c9-5eae4f06b280)
+
 
 Задачи в списке выводятся согласно их приоритетам. Задачи с высшим приоритетом выводятся выше. Если у задач одинаковый приоритет, то выводим согласно алфавиту от А-Я.
 
@@ -343,7 +352,9 @@ ViewTask --> ViewComments
 
 Пример:
 
-![image-20241123-002807.png](attachments/98328/622633.png?width=222)
+![image](https://github.com/user-attachments/assets/14bbff84-de1c-460d-af14-1cd55d634b9b)
 
-6.  **Карточка задачи**  
+Карточка задачи
+---------------   
+
     При нажатии на название задачи открывается карточка задачи. Данная карточка состоит из 2 блоков - Блок с Названием/Статусом/Описанием/Возможность добавлять подзадачи/Комментарием и Блок с Проектом/Исполнителем/
