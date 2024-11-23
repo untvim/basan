@@ -1,4 +1,4 @@
-Сслыка на ТЗ - Confluence
+Ссылка на ТЗ - Confluence
 ==================
 https://antonbaturin2003.atlassian.net/wiki/external/YTU2Nzg1NjU4NjA0NDkxMGJhOWFlMjRmNTQ4MTAzMjU
 
